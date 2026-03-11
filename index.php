@@ -31,6 +31,18 @@ if (isset($_COOKIE['jogador'])) {
         }
         ?>
 
+        <br>
+
+        <!-- IMAGEM DO QUIZ -->
+
+        <div class="imagem-quiz">
+
+            <img src="img/programador.png" alt="Imagem do Quiz">
+
+        </div>
+
+        <br>
+
         <a class="botao" href="quiz.php">Começar Quiz</a>
 
     </div>

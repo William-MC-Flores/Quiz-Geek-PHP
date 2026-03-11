@@ -116,10 +116,17 @@ file_put_contents($arquivo, $contador);
         <h2><?php echo $perfil; ?></h2>
 
         <img src="<?php echo $img; ?>" width="200">
+        
+        <br>
+        <br>
 
         <p><?php echo $desc; ?></p>
 
+        <br>
+
         <p>Quiz jogado <?php echo $contador; ?> vezes.</p>
+        
+        <br>
 
         <a class="botao" href="index.php">Jogar novamente</a>
 

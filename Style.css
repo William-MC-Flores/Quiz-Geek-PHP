@@ -296,3 +296,23 @@ from{width:0%;}
 to{width:100%;}
 
 }
+
+.imagem-quiz{
+
+text-align:center;
+
+margin:25px 0;
+
+}
+
+.imagem-quiz img{
+
+width:220px;
+
+border:2px solid #00e5ff;
+
+box-shadow:
+0 0 10px #00e5ff,
+0 0 20px rgba(0,229,255,0.5);
+
+}
